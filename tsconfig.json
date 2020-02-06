@@ -29,9 +29,5 @@
 	"exclude": [
 		"node_modules",
 		"out",
-		"build",
-		"tests",
-		"migrator",
-		"diffs-checker"
 	]
 }
